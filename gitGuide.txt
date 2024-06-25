@@ -1,0 +1,12 @@
+git init   - Initialize Directory
+git status - Check for files
+	--short     - Compact Mode
+	?? - Untracked files
+	A - Files added to stage
+	M - Modified files
+	D - Deleted files
+git add    - Wanna add 'em?
+	--all or -A - All of the files in the directory
+	
+Confirm these changes?
+git commit -m "New Change"!
