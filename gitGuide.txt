@@ -6,6 +6,7 @@ git status - Check for files
 	M - Modified files
 	D - Deleted files
 git add    - Wanna add 'em?
+git rm     - Delete it?
 	--all or -A - All of the files in the directory
 	
 Confirm these changes?
@@ -15,3 +16,8 @@ Create a branch! git branch [branch name]
 Type "git branch" to see your branches!
 git branch -d - Delete Branch
 Select a branch! git checkout [branch name]
+
+Want to put it up on GitHub?
+git remote add origin [GitHub link to .git]
+git branch -M [your branch] (Example: git branch -M master)
+git push -u origin [your branch]
