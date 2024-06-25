@@ -10,3 +10,8 @@ git add    - Wanna add 'em?
 	
 Confirm these changes?
 git commit -m "New Change"!
+
+Create a branch! git branch [branch name]
+Type "git branch" to see your branches!
+git branch -d - Delete Branch
+Select a branch! git checkout [branch name]
