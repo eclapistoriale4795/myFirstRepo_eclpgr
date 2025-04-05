@@ -19,5 +19,6 @@ Select a branch! git checkout [branch name]
 
 Want to put it up on GitHub?
 git remote add origin [GitHub link to .git]
+(Example: https://github.com/eclapistoriale4795/myFirstRepo_eclpgr.git)
 git branch -M [your branch] (Example: git branch -M master)
 git push -u origin [your branch]
